@@ -6,6 +6,6 @@ Here is the instruction for going through my work:
 The diagram was attached as "Data Modeling Diagram.pdf".
 The process about how I structured JSON data was included in "Fetch_Rewards_Exercise_Data_Analyst.ipynb".
 
-## Second to Forth Question
+## Second to Fourth Question
 Please see the "Fetch_Rewards_Exercise_Data_Analyst.ipynb" file.
 
